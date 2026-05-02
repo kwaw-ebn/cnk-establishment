@@ -776,7 +776,7 @@ function Footer({ setPage }) {
           </div>
         </div>
         <div className="border-t mt-12 pt-6 flex flex-col md:flex-row items-center justify-between gap-2" style={{ borderColor: "rgba(245,180,0,0.2)" }}>
-          <p className="text-gray-600 text-xs">© 2024 CNK Establishment. All rights reserved. Accra, Ghana.</p>
+          <p className="text-gray-600 text-xs">© 2026 CNK Establishment. All rights reserved. Accra, Ghana.</p>
           <p className="text-gray-600 text-xs">Borehole Drilling Equipment • Mining Tools • Water Well Solutions • West Africa</p>
         </div>
       </div>
